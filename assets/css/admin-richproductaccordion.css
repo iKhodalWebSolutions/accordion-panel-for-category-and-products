@@ -1,0 +1,59 @@
+table.richproductaccordion-admin tr td.tp-label { width: 40%;vertical-align: top;border-top: 1px solid #ECECEC;background: #fbfbfb;color: #333 !important;text-align: right;}  
+.rwapcp_tabs_page_richproductaccordion_settings table.richproductaccordion-admin tr td.tp-label { border:0px; }
+table.richproductaccordion-admin  tr td {padding: 5px 10px;color: #555;border-top: 1px solid #ECECEC;border-bottom: 0px none; }
+table.richproductaccordion-admin  tr:last-child td,
+table.richproductaccordion-admin  tr:last-child td.tp-label, 
+table.richproductaccordion-admin-widget tr:last-child td,
+table.richproductaccordion-admin-widget tr:last-child td.tp-label {border-bottom:  1px solid #ECECEC;}  
+#wp_richproductaccordion_fields .inside { padding:0; margin:0}
+table.richproductaccordion-admin input[type="text"], 
+table.richproductaccordion-admin textarea, 
+table.richproductaccordion-admin select { width:97%; padding: 5px; }
+table.richproductaccordion-admin  tr td p { margin:3px;}
+table.richproductaccordion-admin   .description { font-size:11px !important; }
+table.richproductaccordion-admin-widget { margin:0px }
+.tpp-code { padding:10px 5px; background-color:#f5f5f5; color: #333 }
+.tp-label div { font-size:12px; color:#A4A4A4; margin:3px; }
+table.richproductaccordion-admin  .cls-bool-field { width:65px; position:relative; height: 32px; background:#f4f4f4; border-radius:16px; display:block;cursor:pointer;  }
+table.richproductaccordion-admin  .cls-bool-field-ins { width:32px; position:absolute; top:0; margin-top:0px; height: 32px; background:#29e58e; border-radius:50%; display:block; float:right; cursor:pointer;  }
+table.richproductaccordion-admin .cls-bool-field-ins-yes .cls-bool-field-ins { right:0;  background:#29e58e; }
+table.richproductaccordion-admin .cls-bool-field-ins-no .cls-bool-field-ins { left:0;  background:#ccc; }
+table.richproductaccordion-admin  .rwapcp_field {   box-shadow: 1px 2px 3px #f4f4f4; height:auto !important; color: #8F8F8F; font-size: 12px;padding: 8px !important; border-radius: 2px;  }
+table.richproductaccordion-admin  .rwapcp_field:hover {  box-shadow: 1px 2px 3px #eaeaea; }
+/* table.richproductaccordion-admin  select.rwapcp_field { min-width: 163px !important; } width:auto !important;*/
+.richproductaccordion-admin p { font-size: 12px;  text-transform: uppercase;letter-spacing: 1px; }
+.wp-color-result { background-color: #f7f7f7; border: 0px; height: 36px;margin: 0 9px 8px 0; padding-left: 51px;-webkit-box-shadow: 1px 1px 2px #ccc;    box-shadow: 1px 1px 2px #ccc; }
+.wp-color-result::after {  background: #fff;  -webkit-border-radius: 0 2px 2px 0; border-radius: 0 2px 2px 0;    border-left: 1px solid #fff; color: #555; font-size: 11px; line-height: 32px; padding: 0 10px; margin-top: 2px;	margin-right: 2px;} 
+.wp-color-result:hover::after {	border-left: 1px solid #fff ; }
+.cls-row-item div { font-size: 12px;color: #cccccc; margin-top:5px;  }
+.cls-row-item-rdo { display:none } 
+#wp_richproductaccordion_fields   h2.hndle, #wp_richproductaccordion_shortcode  h2.hndle  { background: #2ae68f; letter-spacing: 3px;text-transform: uppercase;font-weight: normal; padding:12px; }
+#wp_richproductaccordion_fields .wp-core-ui .button-link { height:43px; }
+.richproductaccordion-admin-widget  .wp-color-result { height: 36px; min-width: 104px; margin: 0 9px 8px 0;padding-left: 23px;}
+.richproductaccordion-admin-widget .wp-color-result::after { font-size: 11px; padding: 0}
+.richproductaccordion-admin-widget  p {  font-size: 11px; }
+table.richproductaccordion-admin-widget tr td { padding:5px; }
+table.richproductaccordion-admin-widget  select {  box-shadow: 1px 2px 3px #f4f4f4; color: #8F8F8F; font-size: 12px;padding: 8px !important; border-radius: 2px;  line-height: 34px; height: 36px; }
+.in-tabs-content { padding: 10px; margin-top:0px; }
+.in-tabs-content-widget .inside { padding:0px; margin-top:0px; }
+.in-tabs-content-widget .postbox { border:0px; margin-bottom:0px; }
+
+.in-tabs-content .postbox { border:0px; margin-bottom:10px; }
+.in-tabs-content-widget .postbox h2.hndle {   border-left: 3px solid #16bcd9 !important; line-height: 2.4em; font-weight:normal; font-size:14px;  margin:0px; padding: 3px 13px;text-transform: uppercase;letter-spacing: 1px; background: #f7f7f7; color:#333 }
+#wp_richproductaccordion_fields .in-tabs-content   h2.hndle{ border: 1px solid #f5f5f5 !important;  border-left: 3px solid #16bcd9 !important;   background: #f8f8f8; text-align:center }
+.in-tabs-content-widget {  margin: 0px -14px; }
+.in-tabs-content-widget table.richproductaccordion-admin { margin:0px; }
+.in-tabs-content  button.handlediv { margin-top:4px; }
+#wp_richproductaccordion_shortcode, #wp_richproductaccordion_fields { border:0px !important}
+.richproductaccordion-admin-widget .wp-picker-container td{ padding:0 !important; border:0 !important }
+.richproductaccordion-admin-widget .wp-picker-container .wp-picker-container { padding:0 !important; border:0 !important}
+.richproductaccordion-admin-widget .wp-picker-container .screen-reader-text { display:none }
+
+table.richproductaccordion-admin  tr.color-field-tr td { padding:0;border-top: 0; }
+table.richproductaccordion-admin  tr.color-field-tr td  .cls-row-item div { margin-top:0px }
+table.richcategoryproducttab-admin  tr.color-field-tr td .cls-row-item {  padding: 10px; }
+
+.richproductaccordion-admin-widget .fld_disabled,
+table.richproductaccordion-admin .fld_disabled {
+	background-color:#f2f2f2;
+}
